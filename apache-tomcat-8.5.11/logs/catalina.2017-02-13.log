@@ -1,0 +1,498 @@
+13-Feb-2017 09:39:21.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 09:39:21.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 09:39:21.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 09:39:21.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 09:39:21.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 09:39:21.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 09:39:21.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 09:39:21.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 09:39:21.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 09:39:21.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 09:39:21.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 09:39:21.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 09:39:21.843 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 09:39:21.843 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 09:39:21.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 09:39:21.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 09:39:21.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 09:39:21.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 09:39:21.846 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 09:39:21.974 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 09:39:22.026 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 09:39:22.030 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 09:39:22.032 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 09:39:22.033 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 753 ms
+13-Feb-2017 09:39:22.057 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 09:39:22.058 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 09:39:22.067 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 09:39:22.560 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 492 ms
+13-Feb-2017 09:39:22.561 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 09:39:24.523 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 1,962 ms
+13-Feb-2017 09:39:24.525 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 09:39:24.587 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 62 ms
+13-Feb-2017 09:39:24.589 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 09:39:24.945 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 356 ms
+13-Feb-2017 09:39:24.947 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 09:39:25.021 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 74 ms
+13-Feb-2017 09:39:25.023 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp
+13-Feb-2017 09:39:25.063 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp has finished in 40 ms
+13-Feb-2017 09:39:25.068 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 09:39:25.074 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 09:39:25.076 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3042 ms
+13-Feb-2017 09:52:58.420 INFO [http-nio-9999-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] has started
+13-Feb-2017 09:52:58.515 INFO [http-nio-9999-exec-5] org.apache.catalina.core.StandardContext.reload Reloading Context with name [] is completed
+13-Feb-2017 09:53:35.178 INFO [http-nio-9999-exec-3] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/springapp] has started
+13-Feb-2017 09:53:35.242 INFO [http-nio-9999-exec-3] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/springapp] is completed
+13-Feb-2017 10:03:46.650 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/springapp]
+13-Feb-2017 10:03:46.686 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:03:46.724 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 38 ms
+13-Feb-2017 10:06:21.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:06:21.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:06:21.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:06:21.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:06:21.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:06:21.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:06:21.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:06:21.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:06:21.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:06:21.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:21.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:21.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:06:21.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:06:21.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:06:21.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:06:21.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:21.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:21.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:06:21.494 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:06:21.766 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:06:21.803 SEVERE [main] org.apache.coyote.AbstractProtocol.init Failed to initialize end point associated with ProtocolHandler ["http-nio-9999"]
+ java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:436)
+	at sun.nio.ch.Net.bind(Net.java:428)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:214)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:65)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+
+13-Feb-2017 10:06:21.811 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-9999]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-9999]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:970)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:436)
+	at sun.nio.ch.Net.bind(Net.java:428)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:214)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:65)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	... 13 more
+
+13-Feb-2017 10:06:21.821 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:06:21.823 SEVERE [main] org.apache.coyote.AbstractProtocol.init Failed to initialize end point associated with ProtocolHandler ["ajp-nio-8009"]
+ java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:436)
+	at sun.nio.ch.Net.bind(Net.java:428)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:214)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+
+13-Feb-2017 10:06:21.830 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[AJP/1.3-8009]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:970)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:436)
+	at sun.nio.ch.Net.bind(Net.java:428)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:214)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	... 13 more
+
+13-Feb-2017 10:06:21.839 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 830 ms
+13-Feb-2017 10:06:21.880 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:06:21.881 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:06:21.900 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:06:22.313 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 413 ms
+13-Feb-2017 10:06:22.315 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:06:22.341 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 26 ms
+13-Feb-2017 10:06:22.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:06:23.088 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 745 ms
+13-Feb-2017 10:06:23.090 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:06:23.128 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 38 ms
+13-Feb-2017 10:06:23.129 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:06:23.166 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 37 ms
+13-Feb-2017 10:06:23.168 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:06:23.184 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 16 ms
+13-Feb-2017 10:06:23.187 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1348 ms
+13-Feb-2017 10:06:23.190 SEVERE [main] org.apache.catalina.core.StandardServer.await StandardServer.await: create[localhost:8005]: 
+ java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:440)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:743)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:689)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:355)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:495)
+
+13-Feb-2017 10:06:23.195 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:06:23.196 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:06:23.196 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+13-Feb-2017 10:06:23.212 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:06:23.213 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:06:23.214 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:06:23.216 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:06:51.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:06:51.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:06:51.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:06:51.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:06:51.731 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:51.732 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:51.733 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:06:51.734 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:06:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:06:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:06:51.735 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:51.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:06:51.736 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:06:51.737 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:06:51.834 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:06:51.948 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:06:51.950 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:06:51.953 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:06:51.954 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 488 ms
+13-Feb-2017 10:06:51.977 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:06:51.979 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:06:51.995 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:06:52.277 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 282 ms
+13-Feb-2017 10:06:52.279 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:06:52.296 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 17 ms
+13-Feb-2017 10:06:52.297 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:06:52.568 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 271 ms
+13-Feb-2017 10:06:52.570 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:06:52.594 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 23 ms
+13-Feb-2017 10:06:52.595 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:06:52.612 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 17 ms
+13-Feb-2017 10:06:52.613 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:06:52.631 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 18 ms
+13-Feb-2017 10:06:52.634 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 10:06:52.640 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 10:06:52.642 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 686 ms
+13-Feb-2017 10:09:33.249 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Feb-2017 10:09:33.249 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:09:33.320 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:09:33.404 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+13-Feb-2017 10:09:33.446 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:09:33.449 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:09:33.449 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:09:33.450 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:09:46.468 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:09:46.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:09:46.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:09:46.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:09:46.470 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:09:46.471 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:09:46.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:09:46.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:09:46.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:09:46.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:09:46.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:09:46.476 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:09:46.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:09:46.477 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:09:46.577 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:09:46.622 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:09:46.625 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:09:46.627 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:09:46.628 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 430 ms
+13-Feb-2017 10:09:46.650 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:09:46.651 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:09:46.669 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:09:46.938 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 268 ms
+13-Feb-2017 10:09:46.940 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:09:46.955 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 15 ms
+13-Feb-2017 10:09:46.957 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:09:47.238 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 282 ms
+13-Feb-2017 10:09:47.240 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:09:47.272 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 32 ms
+13-Feb-2017 10:09:47.274 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:09:47.310 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 36 ms
+13-Feb-2017 10:09:47.311 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:09:47.332 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 21 ms
+13-Feb-2017 10:09:47.336 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 10:09:47.342 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 10:09:47.344 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 713 ms
+13-Feb-2017 10:10:26.554 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Feb-2017 10:10:26.555 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:10:26.627 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:10:26.723 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+13-Feb-2017 10:10:26.764 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:10:26.767 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:10:26.772 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:10:26.774 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:23:24.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:23:24.579 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:23:24.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:23:24.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:23:24.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:23:24.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:23:24.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:23:24.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:23:24.582 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:23:24.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:23:24.583 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:23:24.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:23:24.584 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:23:24.585 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:23:24.707 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:23:24.770 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:23:24.773 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:23:24.776 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:23:24.777 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 472 ms
+13-Feb-2017 10:23:24.802 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:23:24.803 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:23:24.825 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:23:25.108 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 283 ms
+13-Feb-2017 10:23:25.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:23:25.129 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 19 ms
+13-Feb-2017 10:23:25.130 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:23:25.409 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 279 ms
+13-Feb-2017 10:23:25.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:23:25.436 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 26 ms
+13-Feb-2017 10:23:25.437 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:23:25.473 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 36 ms
+13-Feb-2017 10:23:25.474 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:23:25.493 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 19 ms
+13-Feb-2017 10:23:25.496 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 10:23:25.503 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 10:23:25.504 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 726 ms
+13-Feb-2017 10:24:43.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:24:43.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:24:43.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:24:43.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:24:43.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:24:43.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:24:43.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:24:43.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:24:43.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:24:43.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:24:43.604 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:24:43.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:24:43.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:24:43.606 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:24:43.712 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:24:43.758 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:24:43.761 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:24:43.763 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:24:43.765 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 428 ms
+13-Feb-2017 10:24:43.789 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:24:43.790 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:24:43.807 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:24:44.079 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 271 ms
+13-Feb-2017 10:24:44.080 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:24:44.095 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 15 ms
+13-Feb-2017 10:24:44.096 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:24:44.346 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 249 ms
+13-Feb-2017 10:24:44.347 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:24:44.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 27 ms
+13-Feb-2017 10:24:44.376 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:24:44.399 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 23 ms
+13-Feb-2017 10:24:44.401 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:24:44.420 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 18 ms
+13-Feb-2017 10:24:44.423 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 10:24:44.430 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 10:24:44.432 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 665 ms
+13-Feb-2017 10:44:20.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 10:44:20.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 10:44:20.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 10:44:20.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:44:20.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:44:20.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 10:44:20.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 10:44:20.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 10:44:20.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 10:44:20.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:44:20.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 10:44:20.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 10:44:20.253 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 10:44:20.353 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:44:20.396 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:44:20.398 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:44:20.401 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 10:44:20.402 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 418 ms
+13-Feb-2017 10:44:20.426 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 10:44:20.427 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 10:44:20.444 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 10:44:20.705 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 261 ms
+13-Feb-2017 10:44:20.707 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 10:44:20.722 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 15 ms
+13-Feb-2017 10:44:20.724 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 10:44:20.970 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 246 ms
+13-Feb-2017 10:44:20.971 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 10:44:20.999 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 28 ms
+13-Feb-2017 10:44:21.000 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 10:44:21.028 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 28 ms
+13-Feb-2017 10:44:21.029 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 10:44:21.046 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 17 ms
+13-Feb-2017 10:44:21.050 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 10:44:21.056 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 10:44:21.058 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 655 ms
+13-Feb-2017 10:48:17.671 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+13-Feb-2017 10:48:17.672 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:48:17.745 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:48:17.836 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+13-Feb-2017 10:48:17.868 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:48:17.870 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 10:48:17.872 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 10:48:17.873 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 11:52:13.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.11
+13-Feb-2017 11:52:13.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 10 2017 21:02:52 UTC
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.11.0
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_31\jre
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_31-b13
+13-Feb-2017 11:52:13.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Feb-2017 11:52:13.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 11:52:13.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 11:52:13.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\conf\logging.properties
+13-Feb-2017 11:52:13.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Feb-2017 11:52:13.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Feb-2017 11:52:13.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Feb-2017 11:52:13.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 11:52:13.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11
+13-Feb-2017 11:52:13.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\temp
+13-Feb-2017 11:52:13.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Wood\AppData\Local\Programs\Python\Python36-32\;C:\Users\Wood\AppData\Roaming\npm;C:\apache-ant-1.10.1\bin;.
+13-Feb-2017 11:52:14.050 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+13-Feb-2017 11:52:14.094 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 11:52:14.097 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+13-Feb-2017 11:52:14.099 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+13-Feb-2017 11:52:14.100 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 423 ms
+13-Feb-2017 11:52:14.125 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+13-Feb-2017 11:52:14.126 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.11
+13-Feb-2017 11:52:14.143 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war
+13-Feb-2017 11:52:14.409 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\springapp.war has finished in 265 ms
+13-Feb-2017 11:52:14.411 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs
+13-Feb-2017 11:52:14.427 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\docs has finished in 16 ms
+13-Feb-2017 11:52:14.428 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples
+13-Feb-2017 11:52:14.670 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\examples has finished in 242 ms
+13-Feb-2017 11:52:14.672 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager
+13-Feb-2017 11:52:14.693 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\host-manager has finished in 21 ms
+13-Feb-2017 11:52:14.694 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager
+13-Feb-2017 11:52:14.713 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\manager has finished in 19 ms
+13-Feb-2017 11:52:14.716 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT
+13-Feb-2017 11:52:14.734 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory C:\Users\Wood\Documents\GitHub\Java-Spring-MVC-App\apache-tomcat-8.5.11\webapps\ROOT has finished in 18 ms
+13-Feb-2017 11:52:14.738 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [http-nio-9999]
+13-Feb-2017 11:52:14.744 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler [ajp-nio-8009]
+13-Feb-2017 11:52:14.746 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 645 ms

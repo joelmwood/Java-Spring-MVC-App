@@ -42,5 +42,6 @@
   <user username="role1" password="<must-be-changed>" roles="role1"/>
 -->
 	<role rolename="manager-gui"/>
-	<user username="manager" password="xxxx" roles="manager-gui"/>
+	<role rolename="admin"/>
+	<user username="manager" password="xxxx" roles="admin, manager, manager-script, manager-gui"/>
 </tomcat-users>

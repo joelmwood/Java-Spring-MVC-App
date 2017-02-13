@@ -253,3 +253,11 @@ Caused by: java.io.IOException: An established connection was aborted by the sof
 	at org.apache.tomcat.websocket.WsRemoteEndpointImplBase.sendMessageBlock(WsRemoteEndpointImplBase.java:309)
 	... 17 more
 
+12-Feb-2017 14:53:30.911 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Feb-2017 14:53:30.911 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+12-Feb-2017 14:53:30.982 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2017 14:53:31.077 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+12-Feb-2017 14:53:31.107 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+12-Feb-2017 14:53:31.110 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Feb-2017 14:53:31.111 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
+12-Feb-2017 14:53:31.112 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
