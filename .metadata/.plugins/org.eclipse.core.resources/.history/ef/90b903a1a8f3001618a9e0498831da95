@@ -5,9 +5,8 @@ package springapp.web;
 
 import org.springframework.web.servlet.ModelAndView;
 
-import springapp.web.HelloController;
-
 import junit.framework.TestCase;
+import springapp.web.HelloController;
 
 /**
  * @author Wood

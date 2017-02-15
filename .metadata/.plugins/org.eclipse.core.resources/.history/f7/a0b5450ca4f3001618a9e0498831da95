@@ -5,15 +5,17 @@ package springapp.web;
 
 import org.springframework.web.servlet.ModelAndView;
 
+import junit.framework.*;
 import springapp.web.HelloController;
 
-import junit.framework.TestCase;
+//import junit.framework.TestCase;
+//import org.junit.*;
 
 /**
  * @author Wood
  *
  */
-public class HelloControllerTests extends TestCase {
+public class HelloControllerTests extends TestSuite {
 	public void testHandleRequestView() throws Exception{
 		HelloController controller = new HelloController();
 		ModelAndView modelAndView = controller.handleRequest(null, null);

@@ -7,7 +7,8 @@ import org.springframework.web.servlet.ModelAndView;
 
 import springapp.web.HelloController;
 
-import junit.framework.TestCase;
+//import junit.framework.TestCase;
+import org.junit.*;
 
 /**
  * @author Wood
